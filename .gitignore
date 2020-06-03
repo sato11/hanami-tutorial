@@ -1,0 +1,6 @@
+/db/*.sqlite
+/public/assets*
+/tmp
+/vendor/bundle
+.env.local
+.env.*.local
